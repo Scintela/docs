@@ -29,7 +29,7 @@ export default defineConfig({
               text: '模型 × 硬件矩阵',
               items: [
                 { text: '总览', link: '/matrix/' },
-                { text: '硬件点亮榜', link: '/matrix/lightboard/' }
+                { text: '硬件点亮榜', link: '/matrix/lightboard' }
               ]
             }
           ],
@@ -58,7 +58,7 @@ export default defineConfig({
               text: 'Model × Hardware Matrix',
               items: [
                 { text: 'Overview', link: '/en/matrix/' },
-                { text: 'Hardware Lightboard', link: '/en/matrix/lightboard/' }
+                { text: 'Hardware Lightboard', link: '/en/matrix/lightboard' }
               ]
             }
           ],

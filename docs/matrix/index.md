@@ -23,6 +23,6 @@
 
 ## 立即参与
 
-- 📋 [硬件点亮榜](/matrix/lightboard/) —— 认领没人测过的板子
+- 📋 [硬件点亮榜](/matrix/lightboard) —— 认领没人测过的板子
 - 🤝 [贡献指南](https://github.com/Scintela/.github/blob/main/CONTRIBUTING.md)
 - 📮 Scintela@outlook.com

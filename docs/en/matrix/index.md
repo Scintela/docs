@@ -23,6 +23,6 @@ The data repository `Scintela/matrix` is under preparation. See the [contributin
 
 ## Get Involved
 
-- 📋 [Hardware Lightboard](/en/matrix/lightboard/) — claim an untested board
+- 📋 [Hardware Lightboard](/en/matrix/lightboard) — claim an untested board
 - 🤝 [Contributing guide](https://github.com/Scintela/.github/blob/main/CONTRIBUTING.md)
 - 📮 Scintela@outlook.com
