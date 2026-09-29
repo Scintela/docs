@@ -6,10 +6,13 @@ const base = '/docs/'
 export default defineConfig({
   base,
   title: 'Scintela',
-  head: [['link', { rel: 'icon', href: `${base}favicon.svg` }]],
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: `${base}logo-square.png` }],
+    ['link', { rel: 'apple-touch-icon', href: `${base}logo-square.png` }]
+  ],
   lastUpdated: true,
   themeConfig: {
-    logo: '/favicon.svg',
+    logo: { light: '/logo-square.png', dark: '/logo-square-dark.png' },
     search: { provider: 'local' },
     socialLinks: [{ icon: 'github', link: 'https://github.com/Scintela' }]
   },
