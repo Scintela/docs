@@ -22,8 +22,10 @@ export default defineConfig({
       lang: 'zh-CN',
       themeConfig: {
         nav: [
-          { text: '矩阵', link: '/matrix/' },
           { text: '教程', link: '/guide/' },
+          { text: '项目', link: '/projects/' },
+          { text: '新闻与活动', link: '/news/' },
+          { text: '关于', link: '/about/' },
           { text: 'GitHub', link: 'https://github.com/Scintela' }
         ],
         sidebar: {
@@ -51,8 +53,10 @@ export default defineConfig({
       link: '/en/',
       themeConfig: {
         nav: [
-          { text: 'Matrix', link: '/en/matrix/' },
           { text: 'Guide', link: '/en/guide/' },
+          { text: 'Projects', link: '/en/projects/' },
+          { text: 'News & Events', link: '/en/news/' },
+          { text: 'About', link: '/en/about/' },
           { text: 'GitHub', link: 'https://github.com/Scintela' }
         ],
         sidebar: {
