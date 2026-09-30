@@ -1,6 +1,6 @@
-# Scintela Docs · 星火社区文档站
+# Scintela Docs · 星烁社区文档站
 
-[Scintela](https://github.com/Scintela) 星火开源社区的文档与官网源码,基于 [VitePress](https://vitepress.dev) 构建,由 GitHub Actions 自动部署至 GitHub Pages。
+[Scintela](https://github.com/Scintela) 星烁开源社区的文档与官网源码,基于 [VitePress](https://vitepress.dev) 构建,由 GitHub Actions 自动部署至 GitHub Pages。
 
 - 线上地址:<https://scintela.github.io/docs/>
 - 中文为内容源头(root),英文镜像在 `docs/en/`

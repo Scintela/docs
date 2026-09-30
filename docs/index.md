@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: Scintela
-  text: 星火开源社区
+  text: 星烁开源社区
   tagline: Small Sparks. Open Intelligence.
   actions:
     - theme: brand
