@@ -1,0 +1,28 @@
+name: Community bot
+
+on:
+  issues:
+    types: [opened]
+  pull_request:
+    types: [opened]
+
+permissions: {}
+
+jobs:
+  welcome:
+    uses: Scintela/.github/.github/workflows/welcome.yml@main
+    permissions:
+      issues: write
+      pull-requests: write
+
+  label:
+    if: github.event_name == 'issues'
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: github/issue-labeler@v3
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}

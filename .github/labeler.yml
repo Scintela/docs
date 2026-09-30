@@ -1,0 +1,11 @@
+# issue 自动打标规则(标题/正文正则,忽略大小写)
+'area: matrix':
+- '(?i)(matrix|矩阵|点亮|lightboard|benchmark|基准|跑分|硬件|hardware)'
+'area: docs':
+- '(?i)(docs?|文档|站点|site|typo|教程|guide|导航|nav)'
+'area: design':
+- '(?i)(logo|图标|icon|favicon|配色|brand|品牌)'
+'kind: bug':
+- '(?i)(bug|错误|失效|broken|无法|fail(ed)?|404)'
+'kind: question':
+- '(?i)(question|提问|咨询|how to|怎么|能否|可以吗)'
