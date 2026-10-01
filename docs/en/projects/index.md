@@ -2,6 +2,15 @@
 
 ## Active
 
+### cAGENT
+
+**Lightweight Agent Runtime for Embedded Systems.**
+
+CMake + Kconfig build, ESP-IDF and OpenVela ports, pluggable providers, 26 ADRs; bilingual docs site online.
+
+- Repo: [Scintela/cAGENT](https://github.com/Scintela/cAGENT)
+- Docs: [scintela.github.io/cAGENT](https://scintela.github.io/cAGENT/)
+
 ### Scintela Docs (this site)
 
 The community's docs and homepage, built with VitePress, bilingual, auto-deployed via GitHub Actions.

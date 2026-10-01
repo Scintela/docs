@@ -2,6 +2,15 @@
 
 ## 进行中 / Active
 
+### cAGENT
+
+**轻量级嵌入式 Agent 运行时** —— Lightweight Agent Runtime for Embedded Systems。
+
+CMake + Kconfig 构建,提供 ESP-IDF 与 OpenVela 移植层、可插拔 providers、26 篇 ADR;中英双语文档站已上线。
+
+- 仓库:[Scintela/cAGENT](https://github.com/Scintela/cAGENT)
+- 文档:[scintela.github.io/cAGENT](https://scintela.github.io/cAGENT/)
+
 ### Scintela Docs(本站)
 
 星烁社区的文档与官网,基于 VitePress 构建,双语并行,由 GitHub Actions 自动部署。

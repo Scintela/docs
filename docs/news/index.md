@@ -2,6 +2,12 @@
 
 > 倒序排列,记录社区的大事小情。
 
+## 2026-10
+
+**2026-10-01 · cAGENT 开源入库,社区首个代码项目上线**
+
+轻量级嵌入式 Agent 运行时(Lightweight Agent Runtime for Embedded Systems)以 40 个提交、26 篇 ADR 的完成度入库:支持 ESP-IDF 与 OpenVela,双语文档站 [scintela.github.io/cAGENT](https://scintela.github.io/cAGENT/) 同步上线。管理侧由社区 bot `scint-bot` 完成首次自动化部署。
+
 ## 2026-09
 
 **2026-09-30 · 品牌定名:Scintela / 星烁**

@@ -2,6 +2,12 @@
 
 > Newest first — the community's milestones, big and small.
 
+## 2026-10
+
+**2026-10-01 · cAGENT open-sourced — the community's first code project**
+
+The Lightweight Agent Runtime for Embedded Systems landed with 40 commits and 26 ADRs: ESP-IDF and OpenVela ports, bilingual docs at [scintela.github.io/cAGENT](https://scintela.github.io/cAGENT/). First automated deployment handled by our bot `scint-bot`.
+
 ## 2026-09
 
 **2026-09-30 · Brand finalized: Scintela / 星烁**
