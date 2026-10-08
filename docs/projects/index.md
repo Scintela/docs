@@ -4,12 +4,12 @@
 
 ### cAGENT
 
-**轻量级嵌入式 Agent 运行时** —— Lightweight Agent Runtime for Embedded Systems。
+**轻量级嵌入式 Agent 运行时** —— Lightweight Agent Runtime for Embedded Systems.
 
-CMake + Kconfig 构建,提供 ESP-IDF 与 OpenVela 移植层、可插拔 providers、26 篇 ADR;中英双语文档站已上线。
+为嵌入式设备而生的 Agent 运行时:CMake + Kconfig 构建,开箱即用的 **ESP-IDF** 与 **OpenVela** 移植层,可插拔的模型与存储 providers(OpenAI 兼容推理、JSONL 会话持久化),清晰的错误契约与模块边界,并以 **26 篇 ADR** 记录每一个架构决策。
 
 - 仓库:[Scintela/cAGENT](https://github.com/Scintela/cAGENT)
-- 文档:[scintela.github.io/cAGENT](https://scintela.github.io/cAGENT/)
+- 文档:[scintela.github.io/cAGENT](https://scintela.github.io/cAGENT/)(中英双语,随代码自动部署)
 
 ### Scintela Docs(本站)
 

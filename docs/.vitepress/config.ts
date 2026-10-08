@@ -23,7 +23,13 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: '教程', link: '/guide/' },
-          { text: '项目', link: '/projects/' },
+          {
+            text: '项目',
+            items: [
+              { text: '项目总览', link: '/projects/' },
+              { text: 'cAGENT · 嵌入式 Agent 运行时', link: 'https://scintela.github.io/cAGENT/' }
+            ]
+          },
           { text: '新闻与活动', link: '/news/' },
           { text: '关于', link: '/about/' },
           { text: 'GitHub', link: 'https://github.com/Scintela' }
@@ -54,7 +60,13 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Guide', link: '/en/guide/' },
-          { text: 'Projects', link: '/en/projects/' },
+          {
+            text: 'Projects',
+            items: [
+              { text: 'Overview', link: '/en/projects/' },
+              { text: 'cAGENT · Agent Runtime', link: 'https://scintela.github.io/cAGENT/en/' }
+            ]
+          },
           { text: 'News & Events', link: '/en/news/' },
           { text: 'About', link: '/en/about/' },
           { text: 'GitHub', link: 'https://github.com/Scintela' }

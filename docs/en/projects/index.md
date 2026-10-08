@@ -6,10 +6,10 @@
 
 **Lightweight Agent Runtime for Embedded Systems.**
 
-CMake + Kconfig build, ESP-IDF and OpenVela ports, pluggable providers, 26 ADRs; bilingual docs site online.
+An agent runtime built for embedded devices: CMake + Kconfig build, ready-to-use **ESP-IDF** and **OpenVela** ports, pluggable model and storage providers (OpenAI-compatible inference, JSONL session persistence), clear error contracts and module boundaries — with **26 ADRs** documenting every architectural decision.
 
 - Repo: [Scintela/cAGENT](https://github.com/Scintela/cAGENT)
-- Docs: [scintela.github.io/cAGENT](https://scintela.github.io/cAGENT/)
+- Docs: [scintela.github.io/cAGENT](https://scintela.github.io/cAGENT/) (bilingual, auto-deployed with code)
 
 ### Scintela Docs (this site)
 
