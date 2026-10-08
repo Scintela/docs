@@ -27,7 +27,7 @@ export default defineConfig({
             text: '项目',
             items: [
               { text: '项目总览', link: '/projects/' },
-              { text: 'cAGENT · 嵌入式 Agent 运行时', link: 'https://scintela.github.io/cAGENT/' }
+              { text: 'cAGENT', link: 'https://scintela.github.io/cAGENT/' }
             ]
           },
           { text: '新闻与活动', link: '/news/' },
@@ -64,7 +64,7 @@ export default defineConfig({
             text: 'Projects',
             items: [
               { text: 'Overview', link: '/en/projects/' },
-              { text: 'cAGENT · Agent Runtime', link: 'https://scintela.github.io/cAGENT/en/' }
+              { text: 'cAGENT', link: 'https://scintela.github.io/cAGENT/en/' }
             ]
           },
           { text: 'News & Events', link: '/en/news/' },
