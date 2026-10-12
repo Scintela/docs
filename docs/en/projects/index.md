@@ -2,7 +2,7 @@
 
 ## Active
 
-### cAGENT
+### cAgent
 
 **Lightweight Agent Runtime for Embedded Systems.**
 

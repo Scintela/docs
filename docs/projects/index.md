@@ -2,7 +2,7 @@
 
 ## 进行中 / Active
 
-### cAGENT
+### cAgent
 
 **轻量级嵌入式 Agent 运行时** —— Lightweight Agent Runtime for Embedded Systems.
 
